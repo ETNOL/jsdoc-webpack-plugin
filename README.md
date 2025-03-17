@@ -2,7 +2,7 @@ jsdoc-webpack-plugin
 ==========================
 
 
-WebPack plugin that runs [jsdoc](http://usejsdoc.org/) on your bundles
+WebPack plugin that runs [jsdoc](https://jsdoc.app/) on your bundles
 
 # Usage
 In webpack.config.js:
